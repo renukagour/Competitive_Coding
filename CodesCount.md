@@ -1,10 +1,10 @@
 # Let's Count
 
- Basic Level - 63
+ Basic Level - 63\
 
- Medium Level - 20
+ Medium Level - 20\
 
- Advance Level - 7
+ Advance Level - 7\
 
 ---
- Total= 100
+ Total= 100\
