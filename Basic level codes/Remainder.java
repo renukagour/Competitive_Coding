@@ -12,6 +12,6 @@ public class Remainder {
         int rem = n/k;
 
         System.out.println(div + " " + rem);
-
+         sc.close();
     }
 }

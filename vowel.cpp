@@ -13,9 +13,8 @@ int main(){
     }
     
 // str[i]=str[i]^32; // convert to uppercase to lowercase & lower to upper
-// str[i]=str[i] | 32; //conver all to lower
- str[i]=str[i] & (~32); //conver all to upper
- 
+// str[i]=str[i] | 32; //convert all to lower
+//  str[i]=str[i] & (~32); //convert all to upper
      i++;
   }
   cout<<count;
