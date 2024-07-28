@@ -11,5 +11,6 @@ int main(){
     printf("%d\n",*(p+1));
     p[2]=3;
      printf("%d\n",*(p+2));
+    printf(15&3);
 
 }
